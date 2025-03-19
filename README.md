@@ -29,6 +29,28 @@ Testing Tools: Postman  (for API testing)
 ✅ PUT /books/:id - Update book/item details.
 ✅ DELETE /books/:id - Remove books/items from the system.
 
+ # structure
+D:\reactJs\books\backend
+│── node_modules/         # Installed dependencies
+│── index.js              # Main server file
+│── package.json          # Project metadata
+│── package-lock.json     # Dependency lock file
+
+# Step-by-Step Setup
+
+1. Create the Project Directory
+mkdir D:\reactJs\books\backend
+cd D:\reactJs\books\backend
+
+2. Initialize the Project
+npm init -y
+
+3. Install Required Dependencies
+npm install express mysql cors
+npm install
+
+4. npm start
+
 # API Endpoints & Postman Commands
 
 ✅ 1. GET All Books (Retrieve All Records)
