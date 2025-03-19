@@ -84,6 +84,15 @@ Body (Raw, JSON Format):
   "desc": "Updated book description..."
 }
 
+![Image](https://github.com/user-attachments/assets/30292913-afa7-459d-b07c-19417918a526)
+
+![Image](https://github.com/user-attachments/assets/76a52104-bccc-4c25-812c-39829a5880b0)
+
+![Image](https://github.com/user-attachments/assets/6e0b47a9-5c3a-42f7-9632-c02afd7f7137)
+
+![Image](https://github.com/user-attachments/assets/1642639b-2196-4e99-a885-19261a0f6f2f)
+
+![Image](https://github.com/user-attachments/assets/5408e8ef-0b70-493f-8b0d-223c6157359b)
 ✅ 4. DELETE (Remove a Book from the System)
 Endpoint: DELETE http://localhost:8080/books/5 (Replace 5 with the book ID to delete)
 Postman Request:
